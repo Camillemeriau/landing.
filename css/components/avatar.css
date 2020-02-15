@@ -1,0 +1,9 @@
+.avatar {
+	display: flex;
+    flex-wrap: wrap;
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	font-family: 'Roboto Slab', serif;
+	margin-left: 245px;
+}
